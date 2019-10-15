@@ -1,0 +1,2 @@
+chocolateBars = [
+  ""]
